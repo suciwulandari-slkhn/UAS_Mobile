@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "842141436301",
+    "project_id": "uasmobilesuci",
+    "storage_bucket": "uasmobilesuci.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842141436301:android:ae284b0134df416c26d5c4",
+        "android_client_info": {
+          "package_name": "com.uin.uas_Mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhzew5sse2e-GYgyVv1Gnfz5MjHVnZpQA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
